@@ -44,7 +44,7 @@ const BlogPage = () => {
   return (
     <>
       <Helmet>
-        <title>Blog - John Doe</title>
+        <title>Blog - Petr Chvojka</title>
         <meta name="description" content="Thoughts and tutorials on Python, automation, and data science by John Doe." />
       </Helmet>
       <div className="space-y-12">
