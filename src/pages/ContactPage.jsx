@@ -32,8 +32,8 @@ const ContactPage = () => {
   return (
     <>
       <Helmet>
-        <title>Contact - John Doe</title>
-        <meta name="description" content="Get in touch with John Doe for freelance projects or collaborations." />
+        <title>Contact - Petr Chvojka</title>
+        <meta name="description" content="Get in touch with Petr Chvojka for freelance projects or collaborations." />
       </Helmet>
       <div className="max-w-4xl mx-auto">
         <motion.div
