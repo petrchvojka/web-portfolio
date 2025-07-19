@@ -24,7 +24,7 @@ const Navbar = () => {
       <nav className="container mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-16">
         <NavLink to="/" className="flex items-center gap-2">
           <Code className="h-6 w-6 text-purple-400" />
-          <span className="font-bold text-lg font-['Space_Grotesk']">John Doe</span>
+          <span className="font-bold text-lg font-['Space_Grotesk']">Petr Chvojka</span>
         </NavLink>
 
         <div className="hidden md:flex items-center gap-6">
