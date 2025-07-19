@@ -24,7 +24,7 @@ const Footer = () => {
             <span className="font-bold text-lg font-['Space_Grotesk']">John Doe</span>
           </div>
           <div className="text-center text-sm text-muted-foreground">
-            <p>&copy; {new Date().getFullYear()} John Doe. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Petr Chvojka. All rights reserved.</p>
             <p>Built with React & Tailwind CSS. Hosted on Hostinger.</p>
           </div>
           <div className="flex items-center gap-4">
