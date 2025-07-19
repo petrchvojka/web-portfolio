@@ -59,7 +59,7 @@ const PortfolioPage = () => {
   return (
     <>
       <Helmet>
-        <title>Portfolio - John Doe</title>
+        <title>Portfolio - Petr Chvojka</title>
         <meta name="description" content="A showcase of Python projects by John Doe, focusing on business and factory automation." />
       </Helmet>
       <div className="space-y-12">
