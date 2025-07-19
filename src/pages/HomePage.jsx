@@ -50,7 +50,7 @@ const HomePage = () => {
         className="text-center py-16"
       >
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold font-['Space_Grotesk'] tracking-tight">
-          Hi, I'm <span className="gradient-text">John Doe</span>
+          Hi, I'm <span className="gradient-text">Petr Chvojka</span>
         </h1>
         <p className="mt-4 max-w-2xl mx-auto text-lg sm:text-xl text-muted-foreground">
           A Python Developer specializing in building automation tools and data-driven applications for businesses and factories.
