@@ -13,7 +13,7 @@ function App() {
     <>
       <Helmet>
         <title>John Doe - Python Developer</title>
-        <meta name="description" content="Personal portfolio of John Doe, a Python developer specializing in factory and business automation." />
+        <meta name="description" content="Personal portfolio of Petr Chvojka, a Python developer specializing in factory and business automation." />
       </Helmet>
       <Router>
         <Routes>
