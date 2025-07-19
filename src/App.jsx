@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <Helmet>
-        <title>John Doe - Python Developer</title>
+        <title>Petr Chvojka - Python Developer</title>
         <meta name="description" content="Personal portfolio of Petr Chvojka, a Python developer specializing in factory and business automation." />
       </Helmet>
       <Router>
